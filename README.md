@@ -1,5 +1,6 @@
 # express-filehost
-Allows you to host the content from a folder and then access it through the /files/(file) endpoint or if there is a folder inside the folder /files/(folder)/(file) it also works for a folder inside a folder inside a folder. It doesn't matter how many folders there are.
+Allows you to host the content from a folder and then access it through a **GET method** on the **/files** endpoint
+**/files/(file)** or **/files/(folder)/(file)** etc.
 
 # Usage
 ```javascript
