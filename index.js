@@ -26,7 +26,7 @@ function host(path, endpointt) {
         res.sendFile(`${__dirname}/${path}/${fileRequested}`)
     })
 
-    console.log(path + "is now accessible")
+    console.log(path + " is now accessible")
 }
 
 function port(port) {
