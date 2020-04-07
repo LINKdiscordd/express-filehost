@@ -1,0 +1,22 @@
+{
+  "name": "express-filehost",
+  "version": "1.0.4",
+  "description": "Allows you to get files from a folder on a certain endpoint for example /files/image.png",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "express",
+    "file",
+    "filehost"
+  ],
+  "author": "Link & Skipper",
+  "license": "ISC",
+  "dependencies": {
+     "express": "4.17.1"
+  },
+  "repository": {
+    "url": "https://github.com/LINKdiscordd/express-filehost"
+  }
+}
