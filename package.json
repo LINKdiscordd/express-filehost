@@ -1,6 +1,6 @@
 {
   "name": "express-filehost",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Allows you to get files from a folder on a certain endpoint for example /files/image.png",
   "main": "index.js",
   "scripts": {
